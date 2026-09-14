@@ -1,2 +1,1 @@
-# data-analytics-Projects-Series-
-learning Data Analytics through projects 
+# An End-to-End Analysis of E-Commerce Growth, Customer Experience & Operational Efficiency
